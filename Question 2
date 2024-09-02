@@ -1,1 +1,9 @@
+Algorithm:
+1. Ask user to input the deposit 
+2. check that is the account valid
+3. if account not valid then display "transaction rejected"
+4. else check is the amount valid 
+5. if amount not valid then display "reject transaction"
+6. else display "receipt is generated"
 
+Pseudo Code:
