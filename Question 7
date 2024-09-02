@@ -1,1 +1,8 @@
 
+ask user to  Input two numbers num1 and num2
+ask user to Input an operator
+If operator is equal to '+' then display num1 + num2
+Else if operator is equal to '-' then display num1-num2
+Else if operator is equal to '*' then display num1*num3
+Else if operator is equal to '/' then display num1/num2
+Else display num1 % num2
