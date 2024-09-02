@@ -1,3 +1,4 @@
+#
 Algorithm:
 1. Ask user to input the deposit 
 2. check that is the account valid
@@ -6,4 +7,12 @@ Algorithm:
 5. if amount not valid then display "reject transaction"
 6. else display "receipt is generated"
 
-Pseudo Code:
+#Pseudo Code:
+START 
+INPUT Account Number
+INPUT Deposit Amount 
+IF Account Number valid  AND Deposit Amount>0 THEN
+       PRINT "Transaction successful"
+ELSE 
+       PRINT "Transaction rejected"
+END
