@@ -9,5 +9,5 @@ START
 INPUT ORDER
 INPUT Special request 
 PROCESS ORDER
-DISPLAY ORDER // Serve order
+DISPLAY ORDER  #Serve order
 END
