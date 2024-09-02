@@ -1,1 +1,26 @@
+Q3 algorithm
 
+1. ask user to input 3 numbers n1,n3,n3
+2. Compare n1 with n2 and n3
+3. If n1 is greatest
+ Print "n1 is the greatest number"
+4. Else compare n2 with n1 and n3
+5. If n2 is greatest
+Print "n2 is greatest"
+6. Else print "n3 is greatest"
+
+Pseudo code:
+START
+INPUT NUM1
+INPUT NUM2
+INPUT NUM3
+
+IF NUM1>NUM2 AND NUM1>NUM3 THEN
+       PRINT "Num1 is the greatest number"
+ELSE IF NUM2>NUM1 AND NUM2>NUM3 THEN
+        PRINT "Num2 is the greatest number"
+ELSE 
+        PRINT " Num3 is the greatest number"
+ENDIF
+
+END
