@@ -1,1 +1,5 @@
 
+Ask user to  input number
+Make an ordered list with 12 elements starting at index 1
+Input the name of months in an ordered list
+display the element(month) of list at which index is equal to number
