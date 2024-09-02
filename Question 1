@@ -1,1 +1,6 @@
-Ask user to place an order
+Algorithm:
+1. Ask the user to place an order
+2. Ask for the special request if any
+3. prepare the customer order according to request 
+4. serve the order to the customer
+Pseudo code:
